@@ -1,9 +1,9 @@
-# st - simple terminal
+# st - simple terminal (Pavel's build)
 
 st is a simple terminal emulator for X which sucks less.
 
-All used patches at this build you can find at the patches directory. All of them I took from the suckless.org.
-Some settings I took from the [Luke's repository](https://github.com/LukeSmithxyz). I strongly recommend to look at his github hi's doing a great job.
+All used patches in this build you can find at the patches directory. All of them I took from the [suckless.org](https://suckless.org).
+Some settings I took from the [Luke's repository](https://github.com/LukeSmithxyz). I strongly recommend to look at his github he's doing a great job.
 
 
 # Requirements
@@ -28,7 +28,7 @@ the st terminfo entry with the following command:
 
 ```
 tic -sx st.info
-``
+```
 
 See the man page for additional details.
 
